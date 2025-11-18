@@ -1,2 +1,4 @@
 venv/
 dataset/
+emails/
+__pycache__/
